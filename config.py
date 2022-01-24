@@ -1,1 +1,1 @@
-db_password = 'password'
+db_password = 'your password'
